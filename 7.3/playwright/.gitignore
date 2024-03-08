@@ -1,4 +1,7 @@
 /node_modules/
+user.js
+*/example.spec.js
+tests-examples/
 
 
 .vscode/*
@@ -10,3 +13,7 @@
 
 # Local History for Visual Studio Code
 .history/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
